@@ -1,6 +1,6 @@
 {
   "name": "smart-cron-manager",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A reliable cron job manager for Node.js applications with retries, monitoring, and job control",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
