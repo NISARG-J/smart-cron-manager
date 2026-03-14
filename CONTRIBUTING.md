@@ -6,7 +6,7 @@ Thank you for your interest in contributing to Smart Cron Manager! This document
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smart-cron-manager.git
+   git clone https://github.com/NISARG-J/smart-cron-manager
    cd smart-cron-manager
    ```
 

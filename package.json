@@ -14,11 +14,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/smart-cron-manager.git"
+    "url": "git+https://github.com/NISARG-J/smart-cron-manager"
   },
-  "homepage": "https://github.com/yourusername/smart-cron-manager#readme",
+  "homepage": "https://github.com/NISARG-J/smart-cron-manager#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/smart-cron-manager/issues"
+    "url": "https://github.com/NISARG-J/smart-cron-manager/issues"
   },
   "files": [
     "dist/",
