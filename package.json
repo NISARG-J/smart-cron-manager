@@ -1,0 +1,44 @@
+{
+  "name": "smart-cron-manager",
+  "version": "1.0.0",
+  "description": "A reliable cron job manager for Node.js applications with retries, monitoring, and job control",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepare": "npm run build"
+  },
+  "keywords": ["cron", "scheduler", "nodejs", "jobs", "retries"],
+  "author": "Nisarg Satasiya",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/smart-cron-manager.git"
+  },
+  "homepage": "https://github.com/yourusername/smart-cron-manager#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/smart-cron-manager/issues"
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE",
+    "DOCS.md",
+    "CONTRIBUTING.md"
+  ],
+  "dependencies": {
+    "node-cron": "^3.0.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.11.24",
+    "@types/node-cron": "^3.0.11",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
