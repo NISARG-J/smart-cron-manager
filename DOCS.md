@@ -34,7 +34,7 @@ SmartCron (Main API)
 
 ### NPM Installation
 ```bash
-npm install smart-cron-manager
+npm install cron-guardian
 ```
 
 ### Requirements
@@ -47,7 +47,7 @@ npm install smart-cron-manager
 ## Quick Start
 
 ```typescript
-import { SmartCron } from 'smart-cron-manager';
+import { SmartCron } from 'cron-guardian';
 
 const cronManager = new SmartCron();
 
@@ -698,7 +698,7 @@ cron.schedule('* * * * *', () => {
 });
 
 // After (Smart Cron Manager)
-import { SmartCron } from 'smart-cron-manager';
+import { SmartCron } from 'cron-guardian';
 const cronManager = new SmartCron();
 cronManager.schedule('* * * * *', async () => {
   await myFunction();

@@ -6,8 +6,8 @@ Thank you for your interest in contributing to Smart Cron Manager! This document
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/NISARG-J/smart-cron-manager
-   cd smart-cron-manager
+   git clone https://github.com/NISARG-J/cron-guardian
+   cd cron-guardian
    ```
 
 2. **Install dependencies**

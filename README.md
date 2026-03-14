@@ -1,6 +1,6 @@
 # Smart Cron Manager
 
-[![npm version](https://badge.fury.io/js/smart-cron-manager.svg)](https://badge.fury.io/js/smart-cron-manager)
+[![npm version](https://badge.fury.io/js/cron-guardian.svg)](https://badge.fury.io/js/cron-guardian)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)](https://www.typescriptlang.org/)
 
@@ -20,7 +20,7 @@ A reliable cron job manager for Node.js applications with retries, monitoring, a
 ## Installation
 
 ```bash
-npm install smart-cron-manager
+npm install cron-guardian
 ```
 
 **Requirements:** Node.js ≥ 18.0.0
@@ -28,7 +28,7 @@ npm install smart-cron-manager
 ## Quick Start
 
 ```typescript
-import { SmartCron } from 'smart-cron-manager';
+import { SmartCron } from 'cron-guardian';
 
 const cronManager = new SmartCron();
 

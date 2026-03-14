@@ -20,11 +20,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NISARG-J/smart-cron-manager"
+    "url": "git+https://github.com/NISARG-J/cron-guardian"
   },
-  "homepage": "https://github.com/NISARG-J/smart-cron-manager#readme",
+  "homepage": "https://github.com/NISARG-J/cron-guardian#readme",
   "bugs": {
-    "url": "https://github.com/NISARG-J/smart-cron-manager/issues"
+    "url": "https://github.com/NISARG-J/cron-guardian/issues"
   },
   "files": [
     "dist/",
